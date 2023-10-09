@@ -1,4 +1,4 @@
-module githib.com/Kawar1mi/go-site-health-checker
+module github.com/Kawar1mi/go-site-health-checker
 
 go 1.21.0
 
